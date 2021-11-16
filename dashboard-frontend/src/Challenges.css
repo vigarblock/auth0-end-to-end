@@ -1,0 +1,30 @@
+.Challenges-body {
+  background-color: #545c6d;
+  min-height: 10vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Content {
+  background-color: #656a76;
+  min-height: 10vh;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Error {
+  background-color: #c1c1c1;
+  padding: 10px;
+  width: 50%;
+  color: rgb(171, 33, 33);
+}
